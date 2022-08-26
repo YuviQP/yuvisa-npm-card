@@ -1,10 +1,10 @@
 {
-  "name": "npm-profile-card-yuvisa",
+  "name": "npm-profile-yuvisa",
   "version": "1.0.0",
   "description": "my npm card :)",
   "main": "index.js",
   "bin": {
-    "npm-profile-card-yuvisa": "bin/card.js"
+    "npm-profile-yuvisa": "bin/card.js"
   },
   "type": "module",
   "scripts": {
