@@ -17,18 +17,18 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white("Yuvisa"),
-  handle: chalk.white("@makeitreal"),
+  handle: chalk.white("yuvisa.palomino@gmail.com"),
   shorthandle: chalk.white("MIR"),
-  work: chalk.white("Academia de Desarrollo de Software"),
-  twitter: chalk.gray("https://twitter.com/") + chalk.cyan("makeitreal"),
-  github: chalk.gray("https://github.com/") + chalk.green("makeitreal"),
+  work: chalk.white("Frontend Developer"),
+  twitter: chalk.gray("https://twitter.com/") + chalk.cyan("Yuvisa15/media"),
+  github: chalk.gray("https://github.com/") + chalk.green("YuviQP"),
   // change the linkedin url to your own
   // https://www.linkedin.com/in/khriztianmoreno/
   linkedin:
-    chalk.gray("https://www.linkedin.com/school/") +
-    chalk.blue("make-it-real-camp"),
-  web: chalk.cyan("https://makeitreal.camp"),
-  npx: chalk.red("npx") + " " + chalk.white("makeitreal"),
+    chalk.gray("https://www.linkedin.com/in/") +
+    chalk.blue("yuviqp/"),
+  web: chalk.cyan("Yuvisa"),
+  npx: chalk.red("npx") + " " + chalk.white("Yuvisa"),
   labelWork: chalk.white.bold("    Work:"),
   labelTwitter: chalk.white.bold(" Twitter:"),
   labelGitHub: chalk.white.bold("  GitHub:"),
