@@ -1,6 +1,6 @@
 {
   "name": "npm-profile-yuvisa",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "my npm card :)",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"pending...\"",
-    "release":"np"
+    "release": "np"
   },
   "repository": {
     "type": "git",
